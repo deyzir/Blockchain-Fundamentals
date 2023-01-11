@@ -1,0 +1,27 @@
+
+There is a space to add a special transaction, called "coinbase", in the blocks. For every mined block, the reward coins are sent to the public key written in the coinbase.
+
+A miner adds their own public key and as a result receives the reward coins.
+
+Back in 2009, you’d get paid 50 bitcoins to add a new block! Nowadays, it’s down to 6.25 bitcoins. So, if you solve the puzzle first and validate the block, that transaction is also validated and you earn those bitcoins!
+
+Context: 1 bitcoin is worth ~$16,000 dollars as of December 29, 2022.
+
+how can a miner create new coins?
+
+A miner creates new coins by solving complex mathematical problems and adding valid transactions to the blockchain,
+the public ledger of all transactions on the network. The process of adding new transactions to 
+the blockchain is called "mining" because it involves a certain degree of computational work and expense, 
+and the miner who successfully completes this work is rewarded with newly created coins.
+
+The specific process of mining a new coin block is based on the consensus algorithm
+that is used by the cryptocurrency's blockchain network. For Bitcoin, this process is called Proof-of-Work (PoW). 
+To add a new block of transactions to the blockchain, a miner must find a solution to a complex 
+mathematical problem that is based on the current state of the blockchain. This solution, called a "hash," must meet certain criteria, 
+such as having a certain number of leading zeroes. Miners compete to find the solution by running powerful computer systems that perform 
+millions of calculations per second. Once a miner finds a valid solution, it gets added to the blockchain and broadcasted to the network. 
+The miner who found the solution is then rewarded with newly created coins and transaction fees paid by users for confirming their transactions.
+
+It is important to note that the process of mining is becoming increasingly competitive and requires specialized hardware, 
+
+software, and significant amounts of electricity to be profitable.
