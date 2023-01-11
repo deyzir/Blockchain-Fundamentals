@@ -1,0 +1,16 @@
+Protecting against false transactions with public and private keys
+
+
+If we want real amounts to be transferred between people,
+we need a layer of protection so that only the owner of an account can send money.
+If I was sending $ to someone else, I’d log in to my bank account with a combination of email address and password, right? 
+
+We need a system that allows the owner of an account, 
+and no one else, to create proof that they authorize a transaction. 
+This proof needs to be easy to check but impossible to fabricate.
+
+This is where public and private keys come into play.
+The public key is similar to your email address — you can tell it to anyone so they can send you something.
+But a private key is similar to your password — you shouldn’t tell it to anyone; otherwise, they could access your account.
+
+The public key is generated from the private key using an algorithm (the algorithm is Elliptical Curve Digital Signature Algorithm for Bitcoin).
