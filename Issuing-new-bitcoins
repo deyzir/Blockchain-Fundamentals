@@ -1,0 +1,24 @@
+The money can be injected (i.e. new coins can be created) in many different ways.
+This can be done by giving the initial node lots of money. Or, by giving every new node some money... Or, 
+maybe by regularly adding some money to random nodes. Each method creates different incentives.
+
+The Bitcoin system creates new coins in a way to incentivize integrity of the whole system.
+New coins are created with a piece of code every time a new block is mined by nodes. 
+
+As a result, the system incentivizes more people to become nodes and more of them to become miners.
+The more miners there are, the more computation power will be needed to change the records of transactions and hack the system. 
+
+As it gets harder and harder to hack the system, the blockchain and the economy it creates becomes more secure and, 
+
+as a result, the coins become a more preferred currency.
+
+New bitcoins are created through a process called mining.
+Miners use powerful computer systems to validate and record transactions on the Bitcoin network.
+As a reward for their work, they receive newly created bitcoins, as well as transaction fees paid by users. 
+The process of mining also serves the purpose of adding new transactions to the blockchain, the public ledger of all bitcoin transactions.
+
+The number of new bitcoins created through mining is set to decrease over time.
+This decrease is built into the Bitcoin protocol through a process called halving, 
+which occurs approximately every four years. The protocol is designed such that the total number of bitcoins will never exceed 21 million. 
+When all bitcoins have been mined, there will be no more new bitcoins created, 
+and the only way to acquire them will be through buying them from existing holders or from transaction fees.
